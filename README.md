@@ -10,6 +10,9 @@ This Git repository contains a collection of simple and good Python projects tha
 3. PIL (install using `pip install Pillow`)
 4. tkinter (install using `pip install tkinter`)
 
+## Developers
+- Huzaifa Asim ([@huziprogrammer](https://github.com/huziprogrammer))
+
 ## Contact
 If you have any questions or suggestions, please feel free to reach out to us at toyoureply@gmail.com or through [GitHub issues](https://github.com/huneron/pythonProjects/issues).
 
