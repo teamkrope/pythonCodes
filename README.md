@@ -20,7 +20,7 @@ If you have any questions or suggestions, please feel free to reach out to us at
 We would love to hear your feedback on our projects! please leave a review [here](https://huneron.site/contact).
 
 ## Last Update
-Last updated on: Wednesday, 1 March 2023 (GMT)
+Last updated on: Monday, 6 March 2023 (GMT)
 
 ---
 
