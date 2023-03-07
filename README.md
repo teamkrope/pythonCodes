@@ -10,6 +10,9 @@ This Git repository contains a collection of simple and good Python projects tha
 3. PIL (install using `pip install Pillow`)
 4. tkinter (install using `pip install tkinter`)
 
+## Last Update
+Last updated on: Tuesday, 8 March 2023 (GMT)
+
 ## Developers
 - Huzaifa Asim ([@huziprogrammer](https://github.com/huziprogrammer))
 
@@ -19,8 +22,8 @@ If you have any questions or suggestions, please feel free to reach out to us at
 ## Review
 We would love to hear your feedback on our projects! please leave a review [here](https://huneron.site/contact).
 
-## Last Update
-Last updated on: Monday, 6 March 2023 (GMT)
+## LICENSE
+This project is licensed under the [Apache License 2.0](https://github.com/huneron/pythonProjects/blob/main/LICENSE) to ensure that it remains free and open for everyone.
 
 ---
 
