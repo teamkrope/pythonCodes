@@ -8,6 +8,7 @@ This Python project generates a QR code for the provided text or URL and display
 
 ## Developers
 - Huzaifa Asim ([@huziprogrammer](https://github.com/huziprogrammer))
+- William Rechard ([@williamrechard](https://github.com/williamrechard))
 
 ## Last Update
 Last updated on: Monday, 6 March 2023 (GMT)
