@@ -7,10 +7,10 @@ This Python project generates a QR code for the provided text or URL and display
 3.  tkinter (install using `pip install tkinter`)
 
 ## Developers
-- Huzaifa Asim ([@huziprogrammer](https://github.com/huziprogrammer))
+- Huzaifa Asim ([@huzaifaasim017](https://github.com/huzaifaasim017))
 
 ## Last Update
-Last updated on: Monday, 6 March 2023 (GMT)
+Last updated on: Thursday, 9 March 2023 (GMT)
 
 ---
 
