@@ -14,7 +14,7 @@ This Git repository contains a collection of simple and good Python projects tha
 Last updated on: Tuesday, 8 March 2023 (GMT)
 
 ## Developers
-- Huzaifa Asim ([@huziprogrammer](https://github.com/huziprogrammer))
+- Huzaifa Asim ([@huzaifaasim017](https://github.com/huzaifaasim017))
 
 ## Contact
 If you have any questions or suggestions, please feel free to reach out to us at toyoureply@gmail.com or through [GitHub issues](https://github.com/huneron/pythonProjects/issues).
