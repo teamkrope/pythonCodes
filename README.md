@@ -1,7 +1,7 @@
-# Python Projects
+# Python Codes
 This Git repository contains a collection of simple and good Python projects that are great for beginners or anyone looking to practice their Python programming skills.
 
-## List of Projects
+## List of Codes on GitHub
 1.  [QR Code Generator with GUI](https://github.com/huneron/pythonProjects/tree/qr_code_with_GUI)
 
 ## Dependencies
