@@ -3,12 +3,15 @@ This Git repository contains a collection of simple and good Python projects tha
 
 ## List of Codes on GitHub
 1.  [QR Code Generator with GUI](https://github.com/huneron/pythonProjects/tree/qr_code_with_GUI)
+2.  [Face Detection With Image Capture & Beep Sound](https://github.com/huneron/pythonCodes/tree/face_detect_img_capture)
 
-## Dependencies
+## List of All Dependencies
 1.  Python 3.x
 2. qrcode (install using `pip install qrcode`)
-3. PIL (install using `pip install Pillow`)
+3. PIL (install using `pip install pillow`)
 4. tkinter (install using `pip install tkinter`)
+5. OpenCV (install using `pip install python-opencv`)
+6. PlaySound (install using `pip install playsound`)
 
 ## Last Update
 Last updated on: Tuesday, 8 March 2023 (GMT)
